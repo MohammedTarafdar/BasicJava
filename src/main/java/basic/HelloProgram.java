@@ -1,4 +1,4 @@
-package basic.program;
+package basic;
 
 public class HelloProgram {
 

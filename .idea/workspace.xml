@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24a37014-69cb-4595-a978-5279bafb45df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/basic/program/HelloProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/HelloProgram.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +49,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IfElseLadder">
-    <configuration name="HelloProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basic.program.HelloProgram" />
+  <component name="RunManager" selected="Application.AddTwoNumWithScanner">
+    <configuration name="AddTwoNumWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.AddTwoNumWithScanner" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.program.*" />
+          <option name="PATTERN" value="programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +63,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="control.statement.IfElseExample" />
+    <configuration name="AddTwoNumbers (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programs.AddTwoNumbers" />
       <module name="BasicJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="control.statement.*" />
+          <option name="PATTERN" value="programs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.program.AddTwoNumbers" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.program.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.HelloProgram" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,25 +115,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="control.statement.IfExample" />
-      <module name="BasicJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="control.statement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IfElseLadder" />
-        <item itemvalue="Application.IfElseExample" />
-        <item itemvalue="Application.IfExample" />
+        <item itemvalue="Application.AddTwoNumWithScanner" />
+        <item itemvalue="Application.AddTwoNumbers (1)" />
+        <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.HelloProgram" />
+        <item itemvalue="Application.IfElseLadder" />
       </list>
     </recent_temporary>
   </component>
