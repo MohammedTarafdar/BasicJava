@@ -48,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.IfElseExample">
     <configuration name="HelloProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basic.program.HelloProgram" />
       <module name="BasicJava" />
@@ -62,8 +62,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IfElseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.statement.IfElseExample" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control.statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IfExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="control.statement.IfExample" />
+      <module name="BasicJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="control.statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfElseExample" />
+        <item itemvalue="Application.IfExample" />
         <item itemvalue="Application.HelloProgram" />
       </list>
     </recent_temporary>
