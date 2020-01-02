@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="24a37014-69cb-4595-a978-5279bafb45df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/basic/program/HelloProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/basic/HelloProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/programs/AddTwoNumWithScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/programs/AddTwoNumWithScanner.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

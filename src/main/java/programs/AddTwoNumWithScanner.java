@@ -6,7 +6,7 @@ public class AddTwoNumWithScanner {
 
 
     public static void main(String[] args) {
-        
+
 
         int num1, num2, sum;
 
