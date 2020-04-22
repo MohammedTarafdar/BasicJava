@@ -1,4 +1,4 @@
-package control.statement;
+package controlStatement;
 
 public class IfElseExample {
     // This program demonstate the use of if else statement

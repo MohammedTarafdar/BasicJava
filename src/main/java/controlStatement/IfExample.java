@@ -1,4 +1,4 @@
-package control.statement;
+package controlStatement;
 
 public class IfExample {
     // Java program to demonstate the use of if statement

@@ -1,4 +1,4 @@
-package control.statement;
+package controlStatement;
 
 public class IfElseLadder {
 
